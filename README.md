@@ -1,10 +1,9 @@
 # Parstagram
-Mini instagram app
+A mini instagram-like app that allows users to take and post pics. Setup and utilize a custom backend database using Parse to store and retrieve user posts. Parstagram client can sign up/sign in, log out, and comment on posts.
+
 ## Part I
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
-
-Time spent: **X** hours spent in total
 
 ### User Stories
 
